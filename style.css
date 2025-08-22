@@ -10,15 +10,25 @@ header h1 {
    background-image: url(./images/pattern.jpeg);
 }
 
-.brush-section h2 {
+ h2 {
     font-size: 32px;
     font-weight: bold;
     color:white;
-    background-color: mediumspringgreen;
+    
 }
 
 span {
     font-weight: bold;
     color:blue;
 }
+
+.brush-section h2 {
+    background-color: mediumspringgreen;
+}
+
+
+
+
+
+
 
